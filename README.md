@@ -21,6 +21,7 @@ I build gameplay systems, tools, and shipped titles across Unity and Unreal Engi
 - 🧪 Also work as a QA/tester — I believe **testers should code and developers should test**
 - 🌍 Based in Warsaw, Poland — open to remote & on-site opportunities across Europe
 - 📚 Currently deepening my knowledge of networking/multiplayer architecture
+- 🎬 [Portfolio demo videos](https://drive.google.com/drive/folders/1PAUOA4BfERI_f5Qkj6sRACbZwbWA-YfR) — gameplay and project walkthroughs
 
 ---
 
@@ -64,7 +65,7 @@ I build gameplay systems, tools, and shipped titles across Unity and Unreal Engi
 | [Trophy_Hunt](https://github.com/SergeMa/Trophy_Hunt) | Unity gameplay project | C# |
 | [GlobalGameJam](https://github.com/SergeMa/GlobalGameJam) | Game jam submission built under time pressure | C++ |
 
-> 📦 Shipped commercial titles (Highflare, Deutsche Maerchenstrasse) are closed-source client projects and not publicly hosted here.
+> 📦 Shipped commercial titles (Highflare, Deutsche Maerchenstrasse) are closed-source client projects and not publicly hosted here — see [demo videos](https://drive.google.com/drive/folders/1PAUOA4BfERI_f5Qkj6sRACbZwbWA-YfR) instead.
 
 ---
 
