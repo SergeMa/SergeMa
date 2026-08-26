@@ -72,8 +72,8 @@ I build gameplay systems, tools, and shipped titles across Unity and Unreal Engi
 
 <div align="center">
 
-![Serhii's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergeMa&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeMa&layout=compact&hide_border=true)
+![Serhii's GitHub stats](https://github-stats-extended.vercel.app/api?username=SergeMa&show_icons=true&theme=default&hide_border=true)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=SergeMa&layout=compact&hide_border=true)
 
 </div>
 
